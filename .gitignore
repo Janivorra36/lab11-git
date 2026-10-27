@@ -1,3 +1,4 @@
+# Ignore secrets and generated files
 __pycache__/
 .env
 data/
